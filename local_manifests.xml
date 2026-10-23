@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Sehraan/spes_device_tree" path="device/xiaomi/spes" remote="github" revision="16-QPR2" />
-  <project name="Sehraan/spes_vendor" path="vendor/xiaomi/spes" remote="github" revision="16-QPR2" />
-  <project name="Sehraan/spes_kernel" path="kernel/xiaomi/spes" remote="github" revision="16-BPF" />
+  <project name="Sehraan/android_device_xiaomi_spes" path="device/xiaomi/spes" remote="github" revision="LINEAGE-24.0" />
+  <project name="Sehraan/android_vendor_xiaomi_spes" path="vendor/xiaomi/spes" remote="github" revision="sixteen-local" />
+  <project name="Sehraan/android_kernel_xiaomi_spes" path="kernel/xiaomi/spes" remote="github" revision="  prebuilt" />
 </manifest>
