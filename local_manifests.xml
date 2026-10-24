@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="Sehraan/spes_device_tree" path="device/xiaomi/spes" remote="github" revision="17" />
+  <project name="Sehraan/spes_device_tree" path="device/xiaomi/spes" remote="github" revision="17-gapps" />
   <project name="Sehraan/spes_vendor" path="vendor/xiaomi/spes" remote="github" revision="17" />
   <project name="Sehraan/spes_kernel" path="kernel/xiaomi/spes" remote="github" revision="17" />
 </manifest>
